@@ -47,6 +47,10 @@ INSERT INTO `tbl_ingredientes` (`id_ingredinte`, `Nombre_ingredinete`, `Descripc
 (1, 'Piña', 'Fruta Dulce', 15, 'Mediana', 5, '2023-11-08', 10),
 (2, 'Champiñones', 'Verdura Fresca', 10, 'Chica', 5, '2023-11-06', 3),
 (3, 'Peperoni', 'Carne para pizza', 20, 'Grande', 60, '2023-11-07', 15);
+(4, 'Queso', 'Queso fresco', 15, 'mediano', 4, '2023-11-07', 1);
+(5, 'Espinacas', 'Espinacas frescas', 15, 'Pequeña', 15, '2023-11-06', 6);
+(6, 'Anchoas', 'Pezcado Freco', 35, 'Pequeño', 6, '2023-11-06', 2);
+(7, 'Jamon', 'Carne embutida', 15, 'Pequeño', 3, '2023-11-06', 1);
 
 --
 -- Índices para tablas volcadas
